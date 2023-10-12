@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a Finance Ph.D. candidate at [Gies College of Business](https://giesbusiness.illinois.edu/) and [University of Illinois at Urbana-Champaign](https://illinois.edu/). My research involves banking, monetary policy and corporate finance
+I am currently a Finance Ph.D. candidate at [Gies College of Business](https://giesbusiness.illinois.edu/) and [University of Illinois at Urbana-Champaign](https://illinois.edu/). My research involves banking, monetary policy and corporate finance.
 ## Research Interest:
 - **Banking** 
 - **Monetary Policy** 
