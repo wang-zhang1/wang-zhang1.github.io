@@ -2,8 +2,10 @@ main:
 
   - title: Do Local Bank Branches Shape Mortgage Origination?
     authors: Janet Gao, Yufeng Wu and <strong>Wang Zhang</strong>
+    # project_short: Software
+    # project: 
     pdf: ./assets/files/local_branches.pdf
-    page: http://dx.doi.org/10.2139/ssrn.4329311
+    web: http://dx.doi.org/10.2139/ssrn.4329311
     notes: Working Paper
 
 
