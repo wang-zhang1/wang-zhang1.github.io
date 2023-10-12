@@ -6,6 +6,7 @@ main:
     # project: 
     pdf: ./assets/files/local_branches.pdf
     web: http://dx.doi.org/10.2139/ssrn.4329311
+    image: ./assets/img/local_branches.png
     notes: Working Paper
 
 
